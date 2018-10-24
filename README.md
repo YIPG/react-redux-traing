@@ -6,7 +6,7 @@
 
 let/const、 アロー関数、分割代入, Promise, async/await など。
 
-- [ ] [ES2015\(ES6\) 入門 \- Qiita](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
+- [x] [ES2015\(ES6\) 入門 \- Qiita](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
 class Teacher extends Person はTeacherクラスがPersonクラスを継承, 引き継いでいる. コンストラクタなども渡せる. テンプレート文字列はよくみた・・・。完全に理解した。
 
 - [ ] [Promiseについて0から勉強してみた \- Qiita](https://qiita.com/toshihirock/items/e49b66f8685a8510bd76)
