@@ -13,6 +13,7 @@ class Teacher extends Person はTeacherクラスがPersonクラスを継承, 引
 データをフェッチするときなど、戻り値を返すのに時間がかかるものでコールバック地獄を防ぐために使う。
 - [ ] [async await の使い方 \- Qiita](https://qiita.com/niusounds/items/37c1f9b021b62194e077)
 
+
 ## React
 
 - [ ] [出来る限り短く説明するReact\.js入門 \- Qiita](https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19)
